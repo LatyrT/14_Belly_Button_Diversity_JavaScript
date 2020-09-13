@@ -1,1 +1,1 @@
-# 14_Javascript_Dashboards
+# 14_Belly_Button_Diversity_JavaScript
