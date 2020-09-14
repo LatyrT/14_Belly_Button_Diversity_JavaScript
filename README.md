@@ -12,7 +12,7 @@ The data is coming from a JSON file.
 * Used HTML, JavaScript and HTML
 
 ## Website or Links
-https://latyrt.github.io/15_JavaScript_D3/index.html
+https://latyrt.github.io/14_JavaScript_Dashboards/index.html
 
 ## Results
 ![GitHub Logo](Charts.png)
