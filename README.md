@@ -8,6 +8,7 @@ In this assignment, Latyr is creating a dashboard displaying several charts. The
 
 ## Data Source(s)
 The data is coming from a JSON file.
+
 ## Methods
 * Used HTML, JavaScript and HTML
 
