@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="bacteria.jpg">
-</p>
+</p> 
 
 In this assignment, Latyr is creating a dashboard displaying several charts. The dashboard must allow users to select and filter data by Subject ID (No.).
 
